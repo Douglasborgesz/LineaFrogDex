@@ -32,3 +32,7 @@ A decentralized exchange (DEX) demo application built on the Linea network, show
 ### 3. Executing swap
 ![Executing swap](public/screenshots/screenshot3.jpeg)
 *This screenshot demonstrates the swap execution process, showing the user's input and the resulting swap details.*
+
+## Environment Variables
+
+If you to run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider. You need to provide an Client ID From thirdeweb.
