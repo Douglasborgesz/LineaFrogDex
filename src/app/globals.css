@@ -1,0 +1,39 @@
+:root {
+	--background: #0e1119;
+	--card-background: #28d0ef;
+	--primary: #3a3f50;
+	--secondary: #28d0ef;
+	--text: #ffffff;
+	--text-secondary: #9ca3af;
+	--border: #14223d;
+	--border-radius: 50px;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html,
+body {
+	max-width: 100vw;
+	overflow-x: hidden;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+		Helvetica Neue, sans-serif;
+}
+
+body {
+	color: var(--text);
+	background: var(--background);
+}
+
+button {
+	cursor: pointer;
+	font-family: inherit;
+}
+
+input {
+	font-family: inherit;
+}
+  
