@@ -19,18 +19,16 @@ A decentralized exchange (DEX) demo application built on the Linea network, show
 - **Network**: Linea Testnet
 - **Language**: TypeScript
 
-## 🏃‍♂️ Getting Started
-
 ## 📸 Screenshots
 
 ### 1. Wallet about to be connected
-![Wallet about to be connected](public\screenshots\screenshot1.jpeg)
+![Wallet about to be connected](public/screenshots/screenshot1.jpeg)
 *This screenshot shows the wallet connection prompt that appears when the user initiates the connection process.*
 
 ### 2. Wallet connected to the app
-![Wallet connected to the app](public\screenshots\screenshot2.jpeg)
+![Wallet connected to the app](public/screenshots/screenshot2.jpeg)
 *Here, the wallet is successfully connected, and the user can see their balance and available tokens.*
 
 ### 3. Executing swap
-![Executing swap](public\screenshots\screenshot3.jpeg)
+![Executing swap](public/screenshots/screenshot3.jpeg)
 *This screenshot demonstrates the swap execution process, showing the user's input and the resulting swap details.*
